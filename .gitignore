@@ -1,0 +1,6 @@
+# metadta folders
+.svn/
+.git/
+.settings/
+*.lock
+*.log
